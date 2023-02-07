@@ -1,0 +1,27 @@
+{
+  "name": "com.caseydecoder.tutorial.rootmotion",
+  "version": "0.1.0-pre",
+  "displayName": "Tutorial Root Motion",
+  "description": "A tutorial teaching how to implement root motion character movement.",
+  "unity": "2022.2",
+  "keywords": [
+    "root",
+    "motion",
+    "tutorial",
+    "animation",
+    "3d",
+    "character",
+    "movement",
+    "model",
+    "fbx"
+  ],
+  "author": {
+    "name": "CaseyDeCoder",
+    "email": "hofland.casey@gmail.com",
+    "url": "https://casey-says-hello.surge.sh/"
+  },
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.learn.iet-framework": "3.1.3"
+  }
+}
