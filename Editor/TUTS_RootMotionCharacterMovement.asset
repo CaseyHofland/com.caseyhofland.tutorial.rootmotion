@@ -21,35 +21,38 @@ MonoBehaviour:
   Title:
     m_Untranslated: Root Motion Character Movement
   Subtitle:
-    m_Untranslated: 
+    m_Untranslated: By the end of this tutorial you will have created a third person
+      character that uses root motion character movement, respecting clean practices
+      that grant you full creative flexibility.
   Description:
     m_Untranslated: 
   ProjectLayout: {fileID: 0}
   Sections:
   - OrderInView: 0
     Heading:
-      m_Untranslated: Importing from Mixamo
+      m_Untranslated: Setting Up Root Motion Animations
     Text:
-      m_Untranslated: TODO
-    Metadata: 
-    Url: 
-    Image: {fileID: 0}
-    Tutorial: {fileID: 11400000, guid: 33c768269fa74a14c9387c95040a1adc, type: 2}
-  - OrderInView: 0
-    Heading:
-      m_Untranslated: Root Motion Setup
-    Text:
-      m_Untranslated: TODO
+      m_Untranslated: Settings overview and fine-tuning of animations in Unity.
     Metadata: 
     Url: 
     Image: {fileID: 0}
     Tutorial: {fileID: 11400000, guid: 79034c6a1c2458b49afb75900b5b0404, type: 2}
   - OrderInView: 0
     Heading:
-      m_Untranslated: Character Animator
+      m_Untranslated: Implementing Root Motion
     Text:
-      m_Untranslated: TODO
+      m_Untranslated: A to Z of creating a character controller from a set of animations.
     Metadata: 
     Url: 
     Image: {fileID: 0}
     Tutorial: {fileID: 11400000, guid: e061d6b86a5055c4f8fd6ebb11ffdbe7, type: 2}
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Creating a Root / Scripted Motion Hybrid
+    Text:
+      m_Untranslated: Combining root motion and scripted motion for the best of both
+        worlds.
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: 37c25037cf75f78419d11439839a345a, type: 2}

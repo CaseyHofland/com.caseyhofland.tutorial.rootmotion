@@ -21,12 +21,53 @@ MonoBehaviour:
   m_Title:
     m_Untranslated: Root Motion Character Movement
   m_Description:
-    m_Untranslated: This is the description.
+    m_Untranslated: 'Welcome to the root motion character movement tutorial!
+
+
+      By
+      the end of this tutorial you will have created a third person character that
+      uses root motion character movement, respecting clean practices that grant
+      you full creative flexibility.
+
+
+      Animation sets and models are all provided.
+      The focus is purely on scripting, not animating. It is assumed you are familiar
+      with Unity and basic animation- and scripting terms.
+
+
+      Root motion is
+      defined as the motion of an animations root bone, or animated motion for short.
+      Whilst this tutorial focuses on humanoids, it should be applicable to all animated
+      motion.
+
+
+      If you''d like to open this window again later, you can find
+      it under Tutorials > Welcome Dialog.'
   m_Buttons:
+  - Text:
+      m_Untranslated: Start
+    Tooltip:
+      m_Untranslated: Start learning!
+    OnClick:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 11400000, guid: 525fd1bb1e10f944d9a8e90bc4de4551, type: 2}
+          m_TargetAssemblyTypeName: Unity.Tutorials.Core.Editor.TutorialContainer,
+            Unity.Tutorials.Core.Editor
+          m_MethodName: 
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 1
   - Text:
       m_Untranslated: Close
     Tooltip:
-      m_Untranslated: 
+      m_Untranslated: Maybe later.
     OnClick:
       m_PersistentCalls:
         m_Calls:
