@@ -10,15 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
-  m_Name: TUT_AnimationSetup
+  m_Name: T2_RootMotionSetup
   m_EditorClassIdentifier: 
   TutorialTitle:
-    m_Untranslated: Setting Up Root Motion Animations
+    m_Untranslated: Root Motion Setup
   m_ProgressTrackingEnabled: 1
-  m_LessonId: a07e9645-711f-4450-8a27-0b800cc91bab
+  m_LessonId: 2f45541b-0776-4f5a-b347-d1b4f11b8b3a
   m_Version: 0
-  m_SceneManagementBehavior: 1
-  m_Scenes: []
+  m_SceneManagementBehavior: 0
+  m_Scenes:
+  - {fileID: 102900000, guid: 833f2e8be05d0ab4b8d2b9e2498e8eb5, type: 3}
   m_DefaultSceneCameraSettings:
     m_CameraMode: 0
     m_FocusMode: 0
@@ -38,7 +39,10 @@ MonoBehaviour:
   m_WindowLayout: {fileID: 0}
   m_Pages:
     m_Items:
-    - {fileID: 11400000, guid: f9b3b413ee1f05a4d945daf731683c52, type: 2}
+    - {fileID: 11400000, guid: 7dbe4ed3937b46d479f6ea61ced44f57, type: 2}
+    - {fileID: 11400000, guid: 0727df3fe2eb0004891aaff6b1a78afe, type: 2}
+    - {fileID: 11400000, guid: 12efc560e0ee26b438826d69863a6648, type: 2}
+    - {fileID: 11400000, guid: ecba70dc361589240818db16787ac2ea, type: 2}
   CompletionDialog: {fileID: 0}
   Modified:
     m_PersistentCalls:

@@ -24,6 +24,24 @@
   "dependencies": {
     "com.unity.learn.iet-framework": "3.1.3",
     "com.unity.cinemachine": "2.9.5",
-    "com.unity.inputsystem": "1.4.4"
-  }
+    "com.unity.inputsystem": "1.5.0"
+  },
+  "samples": [
+    {
+        "displayName": "Animation Setup / 01 Basic Setup",
+        "path": "Samples~/Animation Setup/01 Basic Setup"
+    },
+    {
+        "displayName": "Animation Setup / 02 Root Motion Setup",
+        "path": "Samples~/Animation Setup/02 Root Motion Setup"
+    },
+    {
+        "displayName": "Animation Setup / 03 Tweaking Animations",
+        "path": "Samples~/Animation Setup/03 Tweaking Animations"
+    },
+    {
+        "displayName": "Animation Setup / 04 Disabling Root Motion",
+        "path": "Samples~/Animation Setup/04 Disabling Root Motion"
+    }
+  ]
 }

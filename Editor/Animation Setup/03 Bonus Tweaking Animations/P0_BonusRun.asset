@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: P10_
+  m_Name: P0_BonusRun
   m_EditorClassIdentifier: 
   Title:
-    m_Untranslated: 
+    m_Untranslated: Bonus Run
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -37,9 +37,11 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Page title
+        m_Untranslated: 
       Text:
-        m_Untranslated: Put your tutorial narrative description here
+        m_Untranslated: 'Sometimes you may have to work with animation sets. The
+          Bonus Run Animation is a good example: it packs multiple animations into
+          one, and it is up to you to split it into working root motion animations.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

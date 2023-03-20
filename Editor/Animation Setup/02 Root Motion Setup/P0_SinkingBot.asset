@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: P5_
+  m_Name: P0_SinkingBot
   m_EditorClassIdentifier: 
   Title:
-    m_Untranslated: 
+    m_Untranslated: Sinking Bot
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -37,9 +37,16 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Page title
+        m_Untranslated: 
       Text:
-        m_Untranslated: Put your tutorial narrative description here
+        m_Untranslated: 'Import Sample "Animation Setup / Root Motion Setup" or continue
+          with the assets from the previous tutorial.
+
+
+          Select the bot,
+          open the Animator and set the isWalking parameter to true. Then select
+          the Walk state, set its speed to 100 and press Play. Not only are they
+          not walking straight, they''re sinking in the ground as well!'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

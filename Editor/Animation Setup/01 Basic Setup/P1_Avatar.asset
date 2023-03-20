@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: P0_Introduction
+  m_Name: P1_Avatar
   m_EditorClassIdentifier: 
   Title:
-    m_Untranslated: 
+    m_Untranslated: Avatar
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -37,9 +37,29 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Page title
+        m_Untranslated: 
       Text:
-        m_Untranslated: Put your tutorial narrative description here
+        m_Untranslated: 'Our bot has an avatar associated with them, so the animations
+          should as well.
+
+
+          Select the Idle, Walk and Run animation and
+          under the Rig tab set the Animation Type to Humanoid and click Apply. You
+          could get Generic to work as well but it requires a few extra steps, so
+          use Humanoid for ease of use.
+
+
+          Now that both our bot and animations
+          have avatars, Unity should know how to animate them properly!
+
+
+
+
+          Top
+          Tip:
+
+          If animations use the same avatar, you can set the Avatar
+          Definition to "Copy From Other Avatar" to save on memory.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
