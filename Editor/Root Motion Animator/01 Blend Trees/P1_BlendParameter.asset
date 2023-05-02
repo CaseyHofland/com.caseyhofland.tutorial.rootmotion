@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: P0_Controller
+  m_Name: P1_BlendParameter
   m_EditorClassIdentifier: 
   Title:
-    m_Untranslated: Controller
+    m_Untranslated: Blend Parameter
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -39,19 +39,25 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Go to Window > Package Manager and find the Tutorial Root
-          Motion package. Download the "Animation Setup" sample. This contains the
-          assets that will be used throughout this tutorial.
+        m_Untranslated: 'Double click the blend tree to open it up. Under the Parameters
+          tab you will notice a new parameter has been created called "Blend". Rename
+          this to "Speed" for convenience.
 
 
-          Every character
-          needs some animations. Give X Bot the Humanoid_01 controller. They are
-          now animated! ...but press play now and they just get stuck halfway into
-          the ground.
+          At 2 animations to the blend
+          tree: walk & run. Set walk to play when speed is 0, and run to play when
+          speed is 1. We are almost able to move our character about.
 
 
-          Our animations need some basic setup to get them
-          to work.'
+
+
+          Toptip:
+
+          It
+          is easiest to work with normalized values, in this case 0 for "minimum
+          speed" and 1 for "maximum speed". This allows you to use the speed parameter
+          in multiple places, for example to differentiate between crouched speeds
+          as well.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

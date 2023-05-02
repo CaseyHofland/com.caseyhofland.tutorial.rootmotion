@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: P0_Controller
+  m_Name: P0_BlendTrees
   m_EditorClassIdentifier: 
   Title:
-    m_Untranslated: Controller
+    m_Untranslated: Blend Trees
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -40,18 +40,20 @@ MonoBehaviour:
         m_Untranslated: 
       Text:
         m_Untranslated: 'Go to Window > Package Manager and find the Tutorial Root
-          Motion package. Download the "Animation Setup" sample. This contains the
-          assets that will be used throughout this tutorial.
+          Motion package. Download the "Root Motion Animator" sample. This contains
+          the assets that will be used throughout this tutorial.
 
 
-          Every character
-          needs some animations. Give X Bot the Humanoid_01 controller. They are
-          now animated! ...but press play now and they just get stuck halfway into
-          the ground.
+          Blend
+          trees are used to blend between different animations, and they''re especially
+          useful for root motion, as it blends between movement as well.
 
 
-          Our animations need some basic setup to get them
-          to work.'
+          Give
+          X Bot the Humanoid_02 controller and open the animator window. Right click
+          and select Create State > From New Blend Tree to create a Blend Tree. Call
+          it something like Locomotion. This is where the movement animations will
+          be set up.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

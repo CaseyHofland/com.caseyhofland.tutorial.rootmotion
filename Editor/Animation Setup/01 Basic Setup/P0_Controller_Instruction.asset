@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: P0_Controller
+  m_Name: P0_Controller_Instruction
   m_EditorClassIdentifier: 
   Title:
-    m_Untranslated: Controller
+    m_Untranslated: Page title
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -39,19 +39,26 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Go to Window > Package Manager and find the Tutorial Root
-          Motion package. Download the "Animation Setup" sample. This contains the
-          assets that will be used throughout this tutorial.
-
-
-          Every character
-          needs some animations. Give X Bot the Humanoid_01 controller. They are
-          now animated! ...but press play now and they just get stuck halfway into
-          the ground.
-
-
-          Our animations need some basic setup to get them
-          to work.'
+        m_Untranslated: Put your tutorial narrative description here
+      m_Tutorial: {fileID: 0}
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+    - m_Type: 1
+      Title:
+        m_Untranslated: Instruction title
+      Text:
+        m_Untranslated: Put your tutorial instructions here
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

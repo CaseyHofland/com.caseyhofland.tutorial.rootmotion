@@ -58,7 +58,7 @@ MonoBehaviour:
         - m_Target: {fileID: 11400000, guid: 525fd1bb1e10f944d9a8e90bc4de4551, type: 2}
           m_TargetAssemblyTypeName: Unity.Tutorials.Core.Editor.TutorialContainer,
             Unity.Tutorials.Core.Editor
-          m_MethodName: 
+          m_MethodName: LoadTutorialProjectLayout
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}

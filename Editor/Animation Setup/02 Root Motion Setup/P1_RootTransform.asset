@@ -40,34 +40,35 @@ MonoBehaviour:
         m_Untranslated: 
       Text:
         m_Untranslated: 'Animations can come with some unintended movement. This
-          is especially unavoidable when using mocaps.
+          is especially unavoidable when using mocaps (motion captured animations).
+          Luckily, there''s a way to fix it.
 
 
-          Select the Idle
-          animation. Under the Animation tab you''ll find a few settings dedicated
-          to movement:
+          Select the Idle animation.
+          Under the Animation tab you''ll find a few settings dedicated to movement:
 
-          - Root Transform Rotation
+          -
+          Root Transform Rotation
 
-          - Root Transform
-          Position (Y)
+          - Root Transform Position (Y)
 
-          - Root Transform Position (XZ)
-
-
-          These
-          cause the character to move. But since this is an Idle animation, the character
-          shouldn''t move.
+          -
+          Root Transform Position (XZ)
 
 
-          Toggle Bake Into Pose for each of these settings.
-          Bake Into Pose bakes all movement into our animation whilst keeping the
-          transform stable. You can play a bit with the Based Upon setting as well
-          if you''re curious.
+          These cause the character to move.
+          But since this is an Idle animation, the character shouldn''t move.
 
 
-          The next page teaches you how to set up
-          the walk and run animation. Try to work ahead for extra credit!'
+          Toggle
+          Bake Into Pose for each of these settings. Bake Into Pose bakes all movement
+          into our animation whilst keeping the transform stable. You can play a
+          bit with the Based Upon setting as well if you''re curious.
+
+
+          The
+          next page teaches you how to set up the walk and run animation. Try to
+          work ahead!'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

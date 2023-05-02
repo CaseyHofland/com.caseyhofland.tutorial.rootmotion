@@ -3,7 +3,7 @@
   "version": "0.1.0-pre",
   "displayName": "Tutorial Root Motion",
   "description": "A tutorial teaching how to implement root motion character movement.",
-  "unity": "2022.2",
+  "unity": "2020.3",
   "keywords": [
     "root",
     "motion",
@@ -23,13 +23,16 @@
   "hideInEditor": false,
   "dependencies": {
     "com.unity.learn.iet-framework": "3.1.3",
-    "com.unity.cinemachine": "2.9.5",
-    "com.unity.inputsystem": "1.5.0"
+    "com.unity.inputsystem": "1.0.0"
   },
   "samples": [
     {
-        "displayName": "Animation Setup",
-        "path": "Samples~/Animation Setup"
+      "displayName": "Animation Setup",
+      "path": "Samples~/Animation Setup"
+    },
+    {
+      "displayName": "Root Motion Animator",
+      "path": "Samples~/Root Motion Animator"
     }
   ]
 }

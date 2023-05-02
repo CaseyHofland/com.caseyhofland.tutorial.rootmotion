@@ -18,7 +18,8 @@ MonoBehaviour:
   m_LessonId: 93762cb2-51f9-4a8f-a2e4-4148e2f4211d
   m_Version: 0
   m_SceneManagementBehavior: 1
-  m_Scenes: []
+  m_Scenes:
+  - {fileID: 102900000, guid: 22a57295fadde94459ec8fd1eca1afb9, type: 3}
   m_DefaultSceneCameraSettings:
     m_CameraMode: 0
     m_FocusMode: 0
@@ -37,7 +38,10 @@ MonoBehaviour:
     m_Enabled: 0
   m_WindowLayout: {fileID: 0}
   m_Pages:
-    m_Items: []
+    m_Items:
+    - {fileID: 11400000, guid: a4944bb922f91574d96119efe7bf156b, type: 2}
+    - {fileID: 11400000, guid: df2af3b52d585784da1443b51be8f45a, type: 2}
+    - {fileID: 11400000, guid: db9ac30ce94471041bdabd3dfa00ee6a, type: 2}
   CompletionDialog: {fileID: 0}
   Modified:
     m_PersistentCalls:

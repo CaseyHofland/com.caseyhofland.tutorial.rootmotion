@@ -43,14 +43,14 @@ MonoBehaviour:
           should as well.
 
 
-          Select the Idle, Walk and Run animation and
-          under the Rig tab set the Animation Type to Humanoid and click Apply. You
-          could get Generic to work as well but it requires a few extra steps, so
-          use Humanoid for ease of use.
+          Select the Idle, Walk and Run animation. Under
+          the Rig tab set the Animation Type to Humanoid and click Apply. You could
+          get Generic to work as well but it requires a few extra steps, so use Humanoid
+          for ease of use.
 
 
-          Now that both our bot and animations
-          have avatars, Unity should know how to animate them properly!
+          Now that both our bot and animations have
+          avatars, Unity should know how to animate them properly!
 
 
 

@@ -32,7 +32,7 @@ MonoBehaviour:
     Heading:
       m_Untranslated: Blend Trees
     Text:
-      m_Untranslated: 
+      m_Untranslated: Blending animations & blending motion.
     Metadata: 
     Url: 
     Image: {fileID: 0}
@@ -41,7 +41,8 @@ MonoBehaviour:
     Heading:
       m_Untranslated: Turning & Homogeneous Speed
     Text:
-      m_Untranslated: 
+      m_Untranslated: Adding the ability to turn while keeping our motion feeling
+        smooth.
     Metadata: 
     Url: 
     Image: {fileID: 0}
@@ -50,7 +51,7 @@ MonoBehaviour:
     Heading:
       m_Untranslated: Razorsharp Pivoting
     Text:
-      m_Untranslated: 
+      m_Untranslated: Turning 180 degrees perfectly and smoothly.
     Metadata: 
     Url: 
     Image: {fileID: 0}
@@ -59,7 +60,7 @@ MonoBehaviour:
     Heading:
       m_Untranslated: Root Motion Jumping
     Text:
-      m_Untranslated: 
+      m_Untranslated: Ignoring gravity during a jumping animation.
     Metadata: 
     Url: 
     Image: {fileID: 0}

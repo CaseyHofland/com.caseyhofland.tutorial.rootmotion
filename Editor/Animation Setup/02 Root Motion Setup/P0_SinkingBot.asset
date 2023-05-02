@@ -39,14 +39,14 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Import Sample "Animation Setup / Root Motion Setup" or continue
-          with the assets from the previous tutorial.
+        m_Untranslated: 'We have setup our animations, so let''s see how they perform
+          at runtime!
 
 
-          Select the bot,
-          open the Animator and set the isWalking parameter to true. Then select
-          the Walk state, set its speed to 100 and press Play. Not only are they
-          not walking straight, they''re sinking in the ground as well!'
+          Select the X Bot, open the Animator and set the
+          isWalking parameter to true. Then select the Walk state, set its speed
+          to 100 and press Play. Not only are they not walking straight, they''re
+          sinking in the ground as well!'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
