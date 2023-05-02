@@ -22,8 +22,8 @@ MonoBehaviour:
     m_Untranslated: Root Motion Character Movement
   Subtitle:
     m_Untranslated: By the end of this tutorial you will have created a third person
-      character that uses root motion character movement, respecting clean practices
-      that grant you full creative flexibility.
+      character that uses root motion character movement, respecting clean practices,
+      that grants you full creative flexibility.
   Description:
     m_Untranslated: 
   ProjectLayout: {fileID: 0}

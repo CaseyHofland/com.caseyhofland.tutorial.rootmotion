@@ -485,10 +485,6 @@ PrefabInstance:
       value: X Bot
       objectReference: {fileID: 0}
     - target: {fileID: 5866666021909216657, guid: 1f4c232931ecfab4fa8bd4f6729810dc, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 9ade307345693df428cf9350ea9ccfe5, type: 2}
-    - target: {fileID: 5866666021909216657, guid: 1f4c232931ecfab4fa8bd4f6729810dc, type: 3}
       propertyPath: m_WarningMessage
       value: 
       objectReference: {fileID: 0}

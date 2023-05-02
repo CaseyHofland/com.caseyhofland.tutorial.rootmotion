@@ -24,25 +24,29 @@ MonoBehaviour:
     m_Untranslated: 'Welcome to the root motion character movement tutorial!
 
 
+
+
       By
       the end of this tutorial you will have created a third person character that
-      uses root motion character movement, respecting clean practices that grant
+      uses root motion character movement, respecting clean practices, that grants
       you full creative flexibility.
 
 
-      Animation sets and models are all provided.
-      The focus is purely on scripting, not animating. It is assumed you are familiar
-      with Unity and basic animation- and scripting terms.
+      Root motion is defined as the motion
+      of an animations root bone. Think of it as animated motion, where the animation
+      decides when and how the character moves. Whilst this tutorial focuses on humanoids,
+      it should be applicable to all animated motion.
 
 
-      Root motion is
-      defined as the motion of an animations root bone, or animated motion for short.
-      Whilst this tutorial focuses on humanoids, it should be applicable to all animated
-      motion.
 
 
-      If you''d like to open this window again later, you can find
-      it under Tutorials > Welcome Dialog.'
+      Animations and models
+      are all provided. It is assumed you are familiar with the Unity interface.
+
+
+      If
+      you''d like to open this window again later, you can find it under Tutorials
+      > Welcome Dialog.'
   m_Buttons:
   - Text:
       m_Untranslated: Start

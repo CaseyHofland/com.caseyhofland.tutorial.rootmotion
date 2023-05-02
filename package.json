@@ -28,20 +28,8 @@
   },
   "samples": [
     {
-        "displayName": "Animation Setup / 01 Basic Setup",
-        "path": "Samples~/Animation Setup/01 Basic Setup"
-    },
-    {
-        "displayName": "Animation Setup / 02 Root Motion Setup",
-        "path": "Samples~/Animation Setup/02 Root Motion Setup"
-    },
-    {
-        "displayName": "Animation Setup / 03 Tweaking Animations",
-        "path": "Samples~/Animation Setup/03 Tweaking Animations"
-    },
-    {
-        "displayName": "Animation Setup / 04 Disabling Root Motion",
-        "path": "Samples~/Animation Setup/04 Disabling Root Motion"
+        "displayName": "Animation Setup",
+        "path": "Samples~/Animation Setup"
     }
   ]
 }

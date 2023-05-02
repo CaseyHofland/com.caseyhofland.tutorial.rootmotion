@@ -39,6 +39,7 @@ MonoBehaviour:
   m_WindowLayout: {fileID: 0}
   m_Pages:
     m_Items:
+    - {fileID: 11400000, guid: 6f550f07f405ab444b22cba79f5023bc, type: 2}
     - {fileID: 11400000, guid: f9b3b413ee1f05a4d945daf731683c52, type: 2}
     - {fileID: 11400000, guid: fda2ccb6a6e440a478e5ddfaf89a6c05, type: 2}
     - {fileID: 11400000, guid: 78fb64cf75a38ff41876ccfe6b319088, type: 2}
