@@ -38,7 +38,10 @@ MonoBehaviour:
     m_Enabled: 0
   m_WindowLayout: {fileID: 0}
   m_Pages:
-    m_Items: []
+    m_Items:
+    - {fileID: 11400000, guid: 84e0435686615e343a056983f4c2d627, type: 2}
+    - {fileID: 11400000, guid: dccc8ff37bc5e294780331901400690c, type: 2}
+    - {fileID: 11400000, guid: 808429dffe6bdeb489aa60d8e28acd2b, type: 2}
   CompletionDialog: {fileID: 0}
   Modified:
     m_PersistentCalls:
