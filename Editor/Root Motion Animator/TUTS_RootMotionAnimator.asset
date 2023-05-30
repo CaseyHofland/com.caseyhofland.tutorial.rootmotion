@@ -56,12 +56,3 @@ MonoBehaviour:
     Url: 
     Image: {fileID: 0}
     Tutorial: {fileID: 11400000, guid: 6916c67a7f9f344468d7ebe17f2b7dc3, type: 2}
-  - OrderInView: 0
-    Heading:
-      m_Untranslated: Root Motion Jumping
-    Text:
-      m_Untranslated: Ignoring gravity during a jumping animation.
-    Metadata: 
-    Url: 
-    Image: {fileID: 0}
-    Tutorial: {fileID: 11400000, guid: 3f45be02f6bd4aa4f9111a663a8b94e0, type: 2}

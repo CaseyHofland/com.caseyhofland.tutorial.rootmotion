@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PS_RootMotionCharacterMovement
   m_EditorClassIdentifier: 
   m_WelcomePage: {fileID: 11400000, guid: 440730c98a0f85c4699dde44d199c4b0, type: 2}
-  m_InitialScene: {fileID: 0}
+  m_InitialScene: {fileID: 102900000, guid: 833f2e8be05d0ab4b8d2b9e2498e8eb5, type: 3}
   m_InitialCameraSettings:
     m_CameraMode: 0
     m_FocusMode: 0
