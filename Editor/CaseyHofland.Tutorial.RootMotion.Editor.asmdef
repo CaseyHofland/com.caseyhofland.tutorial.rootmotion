@@ -1,5 +1,5 @@
 {
-    "name": "CaseyDeCoder.Tutorial.RootMotion.Editor",
+    "name": "CaseyHofland.Tutorial.RootMotion.Editor",
     "rootNamespace": "Tutorials.RootMotion",
     "references": [
         "GUID:fb96225907e8e4c489ebe0f690ba2ecd",

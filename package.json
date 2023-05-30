@@ -1,5 +1,5 @@
 {
-  "name": "com.caseydecoder.tutorial.rootmotion",
+  "name": "com.caseyhofland.tutorial.rootmotion",
   "version": "0.1.0-pre",
   "displayName": "Tutorial Root Motion",
   "description": "A tutorial teaching how to implement root motion character movement.",
