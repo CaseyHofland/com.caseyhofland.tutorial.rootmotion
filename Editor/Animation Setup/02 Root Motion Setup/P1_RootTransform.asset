@@ -16,14 +16,14 @@ MonoBehaviour:
     m_Untranslated: Root Transform
   m_Paragraphs:
     m_Items:
-    - m_Type: 6
+    - m_Type: 7
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
+      m_Video: {fileID: 32900000, guid: 285f2604832f8d64bb24f1f2bb402674, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
         m_Items: []

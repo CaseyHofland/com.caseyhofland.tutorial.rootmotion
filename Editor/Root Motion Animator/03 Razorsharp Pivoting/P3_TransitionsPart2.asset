@@ -16,14 +16,14 @@ MonoBehaviour:
     m_Untranslated: Transitions Part 2
   m_Paragraphs:
     m_Items:
-    - m_Type: 6
+    - m_Type: 7
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
+      m_Video: {fileID: 32900000, guid: 273013d9048f2144580363a4f96e14fb, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
         m_Items: []

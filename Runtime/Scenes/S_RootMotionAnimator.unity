@@ -332,7 +332,7 @@ MonoBehaviour:
   <animator>k__BackingField: {fileID: 0}
   <rigidbody>k__BackingField: {fileID: 0}
   lookPivot: {fileID: 1329859096}
-  lookSpeed: 0
+  lookSpeed: 90
 --- !u!114 &800623678
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -646,10 +646,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: X Bot
       objectReference: {fileID: 0}
-    - target: {fileID: 5866666021909216657, guid: 1f4c232931ecfab4fa8bd4f6729810dc, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 4dba0c8f213c19941998e1a56617ed8d, type: 2}
     - target: {fileID: 5866666021909216657, guid: 1f4c232931ecfab4fa8bd4f6729810dc, type: 3}
       propertyPath: m_UpdateMode
       value: 1
