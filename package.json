@@ -4,6 +4,9 @@
   "displayName": "Tutorial Root Motion",
   "description": "A tutorial for teaching animators how to use Root Motion in Unity.",
   "unity": "2020.3",
+  "documentationUrl": "https://caseyhofland.github.io/com.caseyhofland.tutorial.rootmotion/",
+  "licensesUrl": "https://caseyhofland.github.io/com.caseyhofland.tutorial.rootmotion/license/LICENSE.html",
+  "changelogUrl": "https://caseyhofland.github.io/com.caseyhofland.tutorial.rootmotion/changelog/CHANGELOG.html",
   "keywords": [
     "root",
     "motion",
