@@ -1,0 +1,37 @@
+{
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "| Tutorial Root Motion | 1.0.0",
+    "keywords": "This is the documentation for the Scripting APIs of this package."
+  },
+  "api/Tutorials.RootMotion.AnimatorInput.html": {
+    "href": "api/Tutorials.RootMotion.AnimatorInput.html",
+    "title": "Class AnimatorInput | Tutorial Root Motion | 1.0.0",
+    "keywords": "Class AnimatorInput Namespace Tutorials.RootMotion public class AnimatorInput : MonoBehaviour Inheritance System.Object AnimatorInput Fields lookPivot public Transform lookPivot Field Value Transform lookSpeed public float lookSpeed Field Value float Properties animator public Animator animator { get; } Property Value Animator rigidbody public Rigidbody rigidbody { get; } Property Value Rigidbody"
+  },
+  "api/Tutorials.RootMotion.html": {
+    "href": "api/Tutorials.RootMotion.html",
+    "title": "Namespace Tutorials.RootMotion | Tutorial Root Motion | 1.0.0",
+    "keywords": "Namespace Tutorials.RootMotion Classes AnimatorInput"
+  },
+  "changelog/CHANGELOG.html": {
+    "href": "changelog/CHANGELOG.html",
+    "title": "Changelog | Tutorial Root Motion | 1.0.0",
+    "keywords": "Changelog All notable changes to this package will be documented in this file. The format is based on Keep a Changelog and this project adheres to Semantic Versioning. [1.0.0] - 2023-06-07 This is the first release of Tutorial.RootMotion. The Unity Root Motion Tutorial is a tutorial for teaching animators how to use root motion in Unity."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "| Tutorial Root Motion | 1.0.0",
+    "keywords": "This page redirects to the manual."
+  },
+  "license/LICENSE.html": {
+    "href": "license/LICENSE.html",
+    "title": "| Tutorial Root Motion | 1.0.0",
+    "keywords": "MIT License Copyright (c) 2023 Casey Hofland Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "manual/index.html": {
+    "href": "manual/index.html",
+    "title": "Unity Root Motion Tutorial | Tutorial Root Motion | 1.0.0",
+    "keywords": "Unity Root Motion Tutorial A tutorial for teaching animators how to use Root Motion in Unity. About Unity Root Motion Tutorial The Unity Root Motion Tutorial is a tutorial for teaching animators how to use root motion in Unity. Its goal is to broaden your reach as an animator / creator in Unity. It aims to explain the core concepts behind root motion, what root motion is, and how to apply it in Unity. This tutorial will NOT teach you any animation skills. All animations for this tutorial are provided. At a leasurly pace, this tutorial is expected to take around 2 hours. This tutorial expects you are: Comfortable using the Unity Engine layout. Installation It is recommended to install this tutorial in a new Unity project, with no scriptable render pipeline (like URP or HDRP) installed. To install this package, follow the instructions on the Package Manager documentation. After having done so, the tutorial should start right away. If it doesn't start right away, click on \"Tutorials > Welcome Dialog\" in the toolbar to start the tutorial manually. License Distributed under the MIT License. See LICENSE for more information. Contact Casey Hofland Formal: hofland.casey@gmail.com Informal: @CaseyHofland"
+  }
+}
