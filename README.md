@@ -28,9 +28,13 @@ This tutorial expects you are:
 
 It is recommended to install this tutorial in a new Unity project, with no scriptable render pipeline (like URP or HDRP) installed.
 
-To install this package, follow the instructions on the [Package Manager documentation](https://docs.unity3d.com/Manual/upm-ui-giturl.html).
+To follow the tutorial, [download the latest release](https://github.com/CaseyHofland/com.caseyhofland.tutorial.rootmotion/releases). Unzip the folder and put it inside your Unity project "Packages" folder. You can quickly find this folder by opening your Unity project, right-clicking your "Packages" folder and selecting "Show in Finder / Explorer".
 
-After having done so, the tutorial should start right away. If it doesn't start right away, click on "Tutorials > Welcome Dialog" in the toolbar to start the tutorial manually.
+> Note:
+> 
+> Following the instructions on the [Package Manager documentation](https://docs.unity3d.com/Manual/upm-ui-giturl.html), which is usually the recommended installation procedure, won't work because [it is not allowed to open a scene in a read-only package](https://forum.unity.com/threads/it-is-not-allowed-to-open-a-scene-in-a-read-only-package-why.1148036/).
+
+After having done so, the tutorial may start right away. If it doesn't start right away, click on "Tutorials > Welcome Dialog" in the toolbar to start the tutorial manually.
 
 
 
