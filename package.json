@@ -1,19 +1,14 @@
 {
   "name": "com.caseyhofland.tutorial.rootmotion",
-  "version": "0.1.0-pre",
+  "version": "1.0.0",
   "displayName": "Tutorial Root Motion",
-  "description": "A tutorial teaching how to implement root motion character movement.",
+  "description": "A tutorial for teaching animators how to use Root Motion in Unity.",
   "unity": "2020.3",
   "keywords": [
     "root",
     "motion",
     "tutorial",
-    "animation",
-    "3d",
-    "character",
-    "movement",
-    "model",
-    "fbx"
+    "animation"
   ],
   "author": {
     "name": "Casey Hofland",
