@@ -16,7 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About Unity Root Motion Tutorial
 
-The Unity Root Motion Tutorial is a tutorial for learning how to use root motion in Unity. Its goal is to broaden your reach as an animator / creator in Unity. It aims to explain the core concepts behind root motion, what root motion is, and how to apply it in Unity. This tutorial will NOT teach you any animation skills. All animations for this tutorial are provided. At a leasurly pace, this tutorial is expected to take around 2 hours.
+The Unity Root Motion Tutorial is a tutorial for teaching animators how to use root motion in Unity. Its goal is to broaden your reach as an animator / creator in Unity. It aims to explain the core concepts behind root motion, what root motion is, and how to apply it in Unity. This tutorial will NOT teach you any animation skills. All animations for this tutorial are provided. At a leasurly pace, this tutorial is expected to take around 2 hours.
 
 This tutorial expects you are:
 - Comfortable using the Unity Engine layout.
