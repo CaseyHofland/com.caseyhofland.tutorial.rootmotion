@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Turning
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: 187afcbd6a3ce33438e4679f7949bef7, type: 3}
+      m_Image: {fileID: 2800000, guid: 84420bfef86d8764fb375c5a9f17c6f4, type: 3}
       m_Video: {fileID: 32900000, guid: 862b8799765c8d24baa0606f47fc0254, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,15 +39,21 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Lay out the following animation hierarchy inside the walk
-          blend tree:
+        m_Untranslated: '<a href="https://youtu.be/2yZYjxEo4jE">Example Video</a>
 
-          * -0.5 | WalkLeftShort
+
+
+
+          Lay
+          out the following animation hierarchy inside the walk blend tree:
+
+          *
+          -0.5 | WalkLeftShort
 
           * -2/6 | WalkLeftMedium
 
-          *
-          -1/6 | WalkLeftWide
+          * -1/6
+          | WalkLeftWide
 
           * 0 | Walk
 

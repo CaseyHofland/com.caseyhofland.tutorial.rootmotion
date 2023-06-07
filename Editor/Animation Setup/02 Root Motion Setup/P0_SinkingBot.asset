@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Sinking Bot
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: f8233ce194a50084baababfee7f4a59a, type: 3}
       m_Video: {fileID: 32900000, guid: f446dcbb7d5a7b94a86f014cc8bb7222, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,14 +39,19 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'We have setup our animations, so let''s see how they perform
-          at runtime!
+        m_Untranslated: '<a href="https://youtu.be/bQiVxTlFz_c">Example Video</a>
 
 
-          Select the X Bot, open the Animator and set the
-          isWalking parameter to true. Then select the Walk state, set its speed
-          to 100 and press Play. Not only are they not walking straight, they''re
-          sinking in the ground as well!'
+
+
+          We
+          have setup our animations, so let''s see how they perform at runtime!
+
+
+          Select
+          the X Bot, open the Animator and set the isWalking parameter to true. Then
+          select the Walk state, set its speed to 100 and press Play. Not only are
+          they not walking straight, they''re sinking in the ground as well!'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

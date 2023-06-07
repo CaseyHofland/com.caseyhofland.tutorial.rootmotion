@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Root Transform
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: c4d9d6cac14bc51469a0226267123403, type: 3}
       m_Video: {fileID: 32900000, guid: 285f2604832f8d64bb24f1f2bb402674, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,25 +39,31 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Animations can come with some unintended movement. This
-          is especially unavoidable when using mocaps (motion captured animations).
-          Luckily, there''s a way to fix it.
+        m_Untranslated: '<a href="https://youtu.be/w5VJW6xSecM">Example Video</a>
 
 
-          Select the Idle animation.
-          Under the Animation tab you''ll find a few settings dedicated to movement:
 
-          -
-          Root Transform Rotation
+
+          Animations
+          can come with some unintended movement. This is especially unavoidable
+          when using mocaps (motion captured animations). Luckily, there''s a way
+          to fix it.
+
+
+          Select the Idle animation. Under the Animation tab
+          you''ll find a few settings dedicated to movement:
+
+          - Root Transform
+          Rotation
 
           - Root Transform Position (Y)
 
-          -
-          Root Transform Position (XZ)
+          - Root Transform
+          Position (XZ)
 
 
-          These cause the character to move.
-          But since this is an Idle animation, the character shouldn''t move.
+          These cause the character to move. But since
+          this is an Idle animation, the character shouldn''t move.
 
 
           Toggle

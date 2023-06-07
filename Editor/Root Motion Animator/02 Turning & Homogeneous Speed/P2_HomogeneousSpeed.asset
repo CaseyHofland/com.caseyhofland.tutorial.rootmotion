@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Homogeneous Speed
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: ac452c7339f8b55419e0a737de9bfbaf, type: 3}
       m_Video: {fileID: 32900000, guid: 2c9d48c58f85dfb4ca9a8b3affbfc72d, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,35 +39,41 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Select the walk blend tree. Under the "Adjust Time Scale"
-          option, select "Homogeneous Speed". Do the same for the run blend tree.
-          This readjusts the time scale of all your animations so they have the same
-          speed.
+        m_Untranslated: '<a href="https://youtu.be/GCtY_-BNQLs">Example Video</a>
 
 
-          Play now and you''ll notice the character arcing a lot
-          smoother. Designing your blend trees like this allows you to mix and match
-          any animation whilst ensuring smooth motion, so make sure to use it alot
-          if you want to use root motion in your own game.
 
 
-          You may find
-          the character turning smoothly but still taking a long time to turn around
-          completely. In the next lesson you''ll add pivoting so the character will
-          feel even better to control.
+          Select
+          the walk blend tree. Under the "Adjust Time Scale" option, select "Homogeneous
+          Speed". Do the same for the run blend tree. This readjusts the time scale
+          of all your animations so they have the same speed.
+
+
+          Play now
+          and you''ll notice the character arcing a lot smoother. Designing your
+          blend trees like this allows you to mix and match any animation whilst
+          ensuring smooth motion, so make sure to use it alot if you want to use
+          root motion in your own game.
+
+
+          You may find the character turning
+          smoothly but still taking a long time to turn around completely. In the
+          next lesson you''ll add pivoting so the character will feel even better
+          to control.
 
 
 
 
           Toptip:
 
-          You may wonder
-          why we are using turn -1 and 1 instead of -180 and 180 (representing degrees).
-          The reason we use turn -1 and 1 is so you can reuse the value for other
-          animations. If you have an animation set where the character turns really
-          slow then you can use "Turn 1" to make the character turn 20 degrees per
-          second. You could technically still do this if your turn value went between
-          -180 and 180,  but clamping it between -1 and 1 makes your animator controllers
+          You may wonder why we are
+          using turn -1 and 1 instead of -180 and 180 (representing degrees). The
+          reason we use turn -1 and 1 is so you can reuse the value for other animations.
+          If you have an animation set where the character turns really slow then
+          you can use "Turn 1" to make the character turn 20 degrees per second.
+          You could technically still do this if your turn value went between -180
+          and 180,  but clamping it between -1 and 1 makes your animator controllers
           easier to reason about.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}

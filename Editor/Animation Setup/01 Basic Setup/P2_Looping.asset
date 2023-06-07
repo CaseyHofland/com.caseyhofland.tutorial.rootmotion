@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Looping
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: a6346fa359f3dac42b08138552570697, type: 3}
       m_Video: {fileID: 32900000, guid: 246dfdbf1bf45d44e97f73f391b9be13, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,14 +39,20 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'The animations need to loop as well. Select all animations
-          one by one and under the Animations tab toggle Loop and Loop Pose.
+        m_Untranslated: '<a href="https://youtu.be/2w7EuyecEJs">Example Video</a>
 
 
-          Up
-          to this point this has been about basic animation setup. Next lesson we''re
-          going to look at what''s special about root motion animations that may
-          trip you up if you don''t know about it.'
+
+
+          The
+          animations need to loop as well. Select all animations one by one and under
+          the Animations tab toggle Loop and Loop Pose.
+
+
+          Up to this point
+          this has been about basic animation setup. Next lesson we''re going to
+          look at what''s special about root motion animations that may trip you
+          up if you don''t know about it.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

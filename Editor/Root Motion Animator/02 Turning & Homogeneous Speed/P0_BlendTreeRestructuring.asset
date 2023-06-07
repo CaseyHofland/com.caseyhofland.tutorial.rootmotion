@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Blend Tree Restructuring
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: c0ea11f4cf9101f42a1baaaf05aedd0e, type: 3}
       m_Video: {fileID: 32900000, guid: d895c8f6464b0ce42b65ae7b4e3dab79, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,31 +39,36 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Unless an infinite runner is what you are going for, moving
-          in one direction doesn''t make for such an interesting game. This lesson
-          will have you add turning and, more importantly, restructure your blend
-          tree to ensure smooth movement.
+        m_Untranslated: '<a href="https://youtu.be/1qKc5FAoJYA">Example Video</a>
 
 
-          Create a float parameter called
-          "Turn" inside Humanoid_02. In the locomotion blend tree, add a new blend
-          tree by clicking the plus (+) button in the "Motion" list. Call this blend
-          tree "Walk" and give it the "Turn" parameter. Then, add the walk animation
-          to it.
 
 
-          This may seem a little weird at first but it will all
-          make sense at the end of this lesson.
+          Unless
+          an infinite runner is what you are going for, moving in one direction doesn''t
+          make for such an interesting game. This lesson will have you add turning
+          and, more importantly, restructure your blend tree to ensure smooth movement.
 
 
-          Inside the locomotion
-          blend tree, add a new blend tree called "run" and give it the "Turn" parameter.
-          Then, add the run animation to it.
+          Create
+          a float parameter called "Turn" inside Humanoid_02. In the locomotion blend
+          tree, add a new blend tree by clicking the plus (+) button in the "Motion"
+          list. Call this blend tree "Walk" and give it the "Turn" parameter. Then,
+          add the walk animation to it.
 
 
-          Lastly, remove the walk
-          and run animation from the locomotion blend tree. If you press play everything
-          should work exactly the same as it did before.'
+          This may seem a little weird
+          at first but it will all make sense at the end of this lesson.
+
+
+          Inside
+          the locomotion blend tree, add a new blend tree called "run" and give it
+          the "Turn" parameter. Then, add the run animation to it.
+
+
+          Lastly,
+          remove the walk and run animation from the locomotion blend tree. If you
+          press play everything should work exactly the same as it did before.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

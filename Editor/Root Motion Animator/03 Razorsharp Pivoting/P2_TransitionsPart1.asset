@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Transitions Part 1
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: 13248aaf233ad3e409a7eefdebf975fe, type: 3}
       m_Video: {fileID: 32900000, guid: 63aaba96b9bda6b4885a7e4f968cf0dd, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,19 +39,36 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'With our blend tree set up, we now have to transition from
-          locomotion to pivot.
+        m_Untranslated: '<a href="https://youtu.be/QpVlVEiOIJ8">Example Video</a>
 
 
-          Go back to the Base Layer. Right click
-          "Locomotion", select "Make Transition" and drag the arrow towards "Pivot".
-          Do this 2 times! The transition will show up as 3 arrows to signal that
-          it contains multiple transitions.
 
 
-          Select the transition. At
-          the top is a list called "Transitions". Make sure the first one is selected,
-          then:
+          With
+          our blend tree set up, we now have to transition from locomotion to pivot.
+
+
+          Go
+          back to the Base Layer. Right click "Locomotion", select "Make Transition"
+          and drag the arrow towards "Pivot". Do this 2 times! The transition will
+          show up as 3 arrows to signal that it contains multiple transitions.
+
+
+          Select
+          the transition. At the top is a list called "Transitions". Make sure the
+          first one is selected, then:
+
+          - Deselect "Has Exit Time",
+
+          -
+          Set "Transition Duration (s)" to something like 0.05,
+
+          - Add
+          the condition "Pivot" "Less" "-0.45".
+
+
+          Then, select the second
+          one and:
 
           - Deselect "Has Exit Time",
 
@@ -59,31 +76,20 @@ MonoBehaviour:
           Duration (s)" to something like 0.05,
 
           - Add the condition "Pivot"
-          "Less" "-0.45".
+          "Greater" "0.45".
 
 
-          Then, select the second one and:
-
-          -
-          Deselect "Has Exit Time",
-
-          - Set "Transition Duration (s)" to
-          something like 0.05,
-
-          - Add the condition "Pivot" "Greater" "0.45".
-
-
-          Having
-          both these transitions in place will transition locomotion into pivot either
-          when we want to turn 45% to the left or 45% to the right, while keeping
-          our animator nice and organized.
+          Having both these transitions in place will
+          transition locomotion into pivot either when we want to turn 45% to the
+          left or 45% to the right, while keeping our animator nice and organized.
 
 
 
 
-          If you play now and try
-          to pivot, our character will pivot! However, after that, they will stand
-          completely still. The next page add transitions to address that.'
+          If
+          you play now and try to pivot, our character will pivot! However, after
+          that, they will stand completely still. The next page add transitions to
+          address that.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

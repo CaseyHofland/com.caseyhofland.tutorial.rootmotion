@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Run Pivot
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: 2b17de5a36c6e034c9945553fcf3872f, type: 3}
       m_Video: {fileID: 32900000, guid: 3f81cb34c6a4d414983d1610e8e31d72, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,17 +39,23 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'This is the easiest step in this tutorial, since the setup
-          has already been taken care of.
+        m_Untranslated: '<a href="https://youtu.be/ZFOuf1rAfWs">Example Video</a>
 
 
-          Double click the "Pivot" blend
-          tree. Click the + button and select "New Blend Tree". Set the "Threshold"
-          of this blend tree to 1.
 
 
-          Select the newly created blend tree.
-          Call it "Run Pivot". Make sure its parameter is set to "Pivot".
+          This
+          is the easiest step in this tutorial, since the setup has already been
+          taken care of.
+
+
+          Double click the "Pivot" blend tree. Click the
+          + button and select "New Blend Tree". Set the "Threshold" of this blend
+          tree to 1.
+
+
+          Select the newly created blend tree. Call it "Run
+          Pivot". Make sure its parameter is set to "Pivot".
 
 
           Afterwards,

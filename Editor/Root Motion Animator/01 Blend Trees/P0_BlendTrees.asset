@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Blend Trees
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: 50ae63ba0ce0b88409f4d41e7299ae36, type: 3}
       m_Video: {fileID: 32900000, guid: 76a173dad7b1de644b59fc02c303451a, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,18 +39,24 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Go to Window > Package Manager and find the Tutorial Root
-          Motion package. Download the "Root Motion Animator" sample. This contains
-          the assets that will be used throughout this tutorial.
+        m_Untranslated: '<a href="https://youtu.be/i_58anL6Yg8">Example Video</a>
 
 
-          Blend
-          trees are used to blend between different animations, and they''re especially
-          useful for root motion, as it blends between movement as well.
 
 
-          Give
-          X Bot the Humanoid_02 controller and open the animator window. Right click
+          Go
+          to Window > Package Manager and find the Tutorial Root Motion package.
+          Download the "Root Motion Animator" sample. This contains the assets that
+          will be used throughout this tutorial.
+
+
+          Blend trees are used
+          to blend between different animations, and they''re especially useful for
+          root motion, as it blends between movement as well.
+
+
+          Give X
+          Bot the Humanoid_02 controller and open the animator window. Right click
           and select Create State > From New Blend Tree to create a Blend Tree. Call
           it something like Locomotion. This is where the movement animations will
           be set up.'

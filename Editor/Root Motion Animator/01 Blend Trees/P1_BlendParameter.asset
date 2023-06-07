@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Blend Parameter
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: eb7fb53d8c2cdda44a7de5c878507111, type: 3}
       m_Video: {fileID: 32900000, guid: b33a0638feb9a1f4384d0eff6b1d1b27, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,14 +39,20 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Double click the blend tree to open it up. Under the Parameters
-          tab you will notice a new parameter has been created called "Blend". Rename
-          this to "Speed" for convenience.
+        m_Untranslated: '<a href="https://youtu.be/P926kJfISw0">Example Video</a>
 
 
-          At 2 animations to the blend
-          tree: walk & run. Set walk to play when speed is 0, and run to play when
-          speed is 1. We are almost able to move our character about.
+
+
+          Double
+          click the blend tree to open it up. Under the Parameters tab you will notice
+          a new parameter has been created called "Blend". Rename this to "Speed"
+          for convenience.
+
+
+          At 2 animations to the blend tree: walk &
+          run. Set walk to play when speed is 0, and run to play when speed is 1.
+          We are almost able to move our character about.
 
 
 

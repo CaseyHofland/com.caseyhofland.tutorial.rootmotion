@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Keep it Green
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: eda88f9b03ed64b49954cfe85a40c807, type: 3}
       m_Video: {fileID: 32900000, guid: d893be3097e035842bef87679668c17f, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,26 +39,32 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Select the Bonus Run Animation. Under the timeline, drag
-          the left slider somewhere you''d want your run animation to start. Use
-          the preview window to help you.
+        m_Untranslated: '<a href="https://youtu.be/AJv2dqs77G0">Example Video</a>
 
 
-          Once you''ve selected a frame
-          you want your animation to start, drag the right slider. Rather than doing
-          it by eye, focus on the squiggly line and place your marker somewhere green.
-          This ensures your animation loops correctly.
 
 
-          Additionally,
-          you''ll need to make sure that anything that''s Bake Into Pose also stays
-          in green. This ensures the motion of the animation works correctly. If
-          it''s yellow or red, it may cause sliding feet.
+          Select
+          the Bonus Run Animation. Under the timeline, drag the left slider somewhere
+          you''d want your run animation to start. Use the preview window to help
+          you.
 
 
-          Since Root
-          Transform Position (XZ) moves, we don''t care if the position loops correctly,
-          so it''s okay if it''s red.'
+          Once you''ve selected a frame you want your animation
+          to start, drag the right slider. Rather than doing it by eye, focus on
+          the squiggly line and place your marker somewhere green. This ensures your
+          animation loops correctly.
+
+
+          Additionally, you''ll need to make
+          sure that anything that''s Bake Into Pose also stays in green. This ensures
+          the motion of the animation works correctly. If it''s yellow or red, it
+          may cause sliding feet.
+
+
+          Since Root Transform Position (XZ)
+          moves, we don''t care if the position loops correctly, so it''s okay if
+          it''s red.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Transitions Part 2
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: f9f3703f12d58984bb29ff293f2ff5a3, type: 3}
       m_Video: {fileID: 32900000, guid: 273013d9048f2144580363a4f96e14fb, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,29 +39,35 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Right click "Pivot", select "Make Transition" and drag the
-          arrow towards "Locomotion". Set the "Exit Time" to 1 and keep the "Transition
-          Duration (s)" to something low like 0.05.
+        m_Untranslated: '<a href="https://youtu.be/BdJf1tBxARU">Example Video</a>
 
 
-          Select the transition
-          from "Idle" to "Locomotion" and set the "Interuption Source" to "Next State".
-          Also select the transition from "Locomotion" to "Idle" and set the "Interuption
-          Source" to "Current State". This will ensure that our "Pivot" state takes
-          precedence over our "Idle" state.
 
 
-          Play now and our character
-          will pivot smoothly before returning to walking. The next page adds running
-          pivots so you don''t lose your speed when running.
+          Right
+          click "Pivot", select "Make Transition" and drag the arrow towards "Locomotion".
+          Set the "Exit Time" to 1 and keep the "Transition Duration (s)" to something
+          low like 0.05.
+
+
+          Select the transition from "Idle" to "Locomotion"
+          and set the "Interuption Source" to "Next State". Also select the transition
+          from "Locomotion" to "Idle" and set the "Interuption Source" to "Current
+          State". This will ensure that our "Pivot" state takes precedence over our
+          "Idle" state.
+
+
+          Play now and our character will pivot smoothly
+          before returning to walking. The next page adds running pivots so you don''t
+          lose your speed when running.
 
 
 
 
           Toptip:
 
-          It
-          is very important that the "Exit Time" is set to 1 so that the pivot completes
+          It is very
+          important that the "Exit Time" is set to 1 so that the pivot completes
           in full, otherwise our character might only turn e.g. 140 degrees when
           we want them to turn 180 degrees.'
       m_Tutorial: {fileID: 0}

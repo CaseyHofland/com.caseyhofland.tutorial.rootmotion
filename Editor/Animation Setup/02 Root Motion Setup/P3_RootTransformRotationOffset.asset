@@ -16,13 +16,13 @@ MonoBehaviour:
     m_Untranslated: Root Transform Rotation Offset
   m_Paragraphs:
     m_Items:
-    - m_Type: 7
+    - m_Type: 6
       Title:
         m_Untranslated: 
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: 727519ddfe35b1c44b23cd19b0457c89, type: 3}
       m_Video: {fileID: 32900000, guid: dcb5c60ac6e01e74fa24439b6f29cf63, type: 3}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,24 +39,30 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Select the walk animation. If you scroll down, you''ll notice
-          a small box (under Additive Reference Pose) with the animation''s average
-          velocity.
+        m_Untranslated: '<a href="https://youtu.be/qrKjEWZlUnU">Example Video</a>
 
 
-          The average velocity contains a small value on the
-          X-axis, causing the walk animation to swerve. The animation needs to be
-          slightly rotated to get it to walk straight.
 
 
-          Select Offset
-          under Root Transform Rotation. Play with this value until the average velocity
-          displays 0.000 on the X-axis, then hit apply.
+          Select
+          the walk animation. If you scroll down, you''ll notice a small box (under
+          Additive Reference Pose) with the animation''s average velocity.
 
 
-          Press Play to
-          see the bot walk straight ahead. There might still be a very slight offshoot,
-          but it should be unnoticable in gameplay, so don''t worry about it.'
+          The
+          average velocity contains a small value on the X-axis, causing the walk
+          animation to swerve. The animation needs to be slightly rotated to get
+          it to walk straight.
+
+
+          Select Offset under Root Transform Rotation.
+          Play with this value until the average velocity displays 0.000 on the X-axis,
+          then hit apply.
+
+
+          Press Play to see the bot walk straight ahead.
+          There might still be a very slight offshoot, but it should be unnoticable
+          in gameplay, so don''t worry about it.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
