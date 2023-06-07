@@ -30,7 +30,7 @@ It is recommended to install this tutorial in a new Unity project, with no scrip
 
 To install this package, follow the instructions on the [Package Manager documentation](https://docs.unity3d.com/Manual/upm-ui-giturl.html).
 
-After having done so, the tutorial should start right away. If it doesn't start right away, the click on "Tutorials > Welcome Dialog" in the toolbar to start the tutorial manually.
+After having done so, the tutorial should start right away. If it doesn't start right away, click on "Tutorials > Welcome Dialog" in the toolbar to start the tutorial manually.
 
 
 
